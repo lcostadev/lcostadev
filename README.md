@@ -23,15 +23,6 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, dominando **Orient
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcostadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcostadev&layout=compact&theme=dark"/>
-</div>
-
----
-
 ### 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcostadev)
